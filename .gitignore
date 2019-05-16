@@ -1,1 +1,21 @@
+<<<<<<< HEAD
 /target/
+=======
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+/bin/
+>>>>>>> 912d00ee1c6c34f56f173390504221205cdcdab2
